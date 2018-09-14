@@ -1,0 +1,8 @@
+{
+  "name": "Omedicine1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "cec64ba9"
+}
